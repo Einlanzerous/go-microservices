@@ -1,2 +1,8 @@
-./db-data
+db-data
 .vscode
+
+# TODO: Move all binaries to a build folder for each component
+logger-service/loggerServiceApp
+broker-service/brokerApp
+authentication-service/authApp
+front-end/frontApp
