@@ -1,6 +1,5 @@
 db-data
 .vscode
-logger-service/logs
 
 # TODO: Move all binaries to a build folder for each component
 logger-service/loggerServiceApp
